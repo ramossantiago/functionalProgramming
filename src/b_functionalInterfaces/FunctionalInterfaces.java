@@ -1,4 +1,4 @@
-package exercises;
+package b_functionalInterfaces;
 
 import java.util.List;
 import java.util.function.BinaryOperator;
