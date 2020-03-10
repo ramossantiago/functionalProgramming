@@ -1,4 +1,4 @@
-package custonClasses;
+package customClassesSkipLimitTakeDrop;
 
 import java.util.List;
 import java.util.function.Predicate;

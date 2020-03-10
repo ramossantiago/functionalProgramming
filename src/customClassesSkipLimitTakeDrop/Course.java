@@ -1,4 +1,4 @@
-package custonClasses;
+package customClassesSkipLimitTakeDrop;
 
 public class Course {
 
