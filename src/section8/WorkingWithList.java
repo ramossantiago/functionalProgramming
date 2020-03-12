@@ -11,6 +11,7 @@ public class WorkingWithList {
 		
 		List<String> modificar = new ArrayList<String>(courses);
 		
+	
 		modificar.replaceAll(String::toUpperCase);
 		System.out.println(modificar);
 		

@@ -10,7 +10,6 @@ public class Threads {
 		 * structured way
 		 */
 		Runnable runnable = new Runnable() {
-			
 			@Override
 			public void run() {
 				for (int i=0 ; i <1000 ; i++) {
